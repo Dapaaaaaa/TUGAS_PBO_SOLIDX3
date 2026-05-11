@@ -1,8 +1,8 @@
-# PBO: Kerkom Materi 11 (SOLID)
+# PBO: Kerkom Materi 11 (SOLID)
 
 Repositori ini berisi tentang tugas Kerja Kelompok kami yang memuat tentang sebuah progam yang awalnya NON-SOLID menjadi SOLID.
 
-## Anggota Kelompok
+## Anggota Kelompok
 
 | NIM | NAMA | PEMBAGIAN TUGAS |
 | --- | --- | --- |
@@ -11,7 +11,7 @@ Repositori ini berisi tentang tugas Kerja Kelompok kami yang memuat tentang sebu
 | 2409106056 | Muhammad Dzaki Rifa'i | Open/Closed Principle (OCP) |
 | 2409106060 | Muhammad Trigusni Hermawan | Liskov Substitution Principle (LSP) dan Single Responsibility Principle (SRP) |
 
-## Penjelasan SOLID
+## Penjelasan SOLID
 
 S - Single Responsibility Principle
 Satu kelas harus punya satu alasan untuk berubah
